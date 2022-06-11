@@ -27,5 +27,6 @@ deep-copy-regex:
 - source: "/google/cloud/essentialcontacts/(v.*)/.*-java/grpc-google-.*/src"
   dest: "/owl-bot-staging/$1/grpc-google-cloud-essential-contacts-$1/src"
 - source: "/google/cloud/essentialcontacts/(v.*)/.*-java/gapic-google-.*/src"
-  dest: "/owl-bot-staging/$1/google-cloud-essential-contacts/src"- source: "/google/cloud/essentialcontacts/(v.*)/.*-java/samples/snippets/generated"
+  dest: "/owl-bot-staging/$1/google-cloud-essential-contacts/src"
+- source: "/google/cloud/essentialcontacts/(v.*)/.*-java/samples/snippets/generated"
   dest: "/owl-bot-staging/$1/samples/snippets/generated"
