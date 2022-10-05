@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.3.6](https://github.com/googleapis/java-essential-contacts/compare/v2.3.5...v2.3.6) (2022-10-05)
+
+
+### Bug Fixes
+
+* update protobuf to v3.21.7 ([e34d50f](https://github.com/googleapis/java-essential-contacts/commit/e34d50f91d999fceb48401aeab253c7d0c79cc83))
+
 ## [2.3.5](https://github.com/googleapis/java-essential-contacts/compare/v2.3.4...v2.3.5) (2022-10-03)
 
 
